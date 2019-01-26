@@ -1,7 +1,6 @@
 import React from 'react'
-import { ScrollView, StyleSheet, Text, View, FlatList } from 'react-native'
+import { StyleSheet, View, FlatList } from 'react-native'
 import { AttractionItem } from '@components/AttractionItem'
-import { ExpoLinksView } from '@expo/samples'
 
 const { Places: PlacesDataSource } = require('@assets/data/preload.json')
 
@@ -10,7 +9,7 @@ export default class AttractionListScreen extends React.Component {
     title: 'Attractions List'
   }
 
-  render() {
+  render () {
     return (
       <View style={styles.container}>
         <FlatList

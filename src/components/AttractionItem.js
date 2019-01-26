@@ -1,14 +1,14 @@
 import React from 'react'
-import { StyleSheet, Text, View, TouchableOpacity, Image } from 'react-native'
+import { StyleSheet, View, TouchableOpacity, Image } from 'react-native'
 import { MonoText } from '@components/StyledText'
 
 const NO_IMAGE_URL =
   'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png'
 export class AttractionItem extends React.PureComponent {
-  render() {
+  render () {
     const { title, des, imgUrl = NO_IMAGE_URL } = this.props
     return (
-      <TouchableOpacity style={styles.container} underlayColor="red">
+      <TouchableOpacity style={styles.container} underlayColor='red'>
         <Image source={{ uri: imgUrl }} style={styles.imageLeft} />
         <View style={styles.contentRight}>
           <MonoText style={styles.contentRightTitle}>{title}</MonoText>
