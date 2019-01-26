@@ -1,0 +1,68 @@
+{
+  "Places": [
+    {
+      "ID": "1",
+      "Name": "BHXH TP Tra Vinh",
+      "Addr": "Pham Ngu Lao, P1, TPTV",
+      "Lat": "9.933469",
+      "Lon": "106.339881",
+      "Description": "Cơ quan Bảo hiểm xã hội TPTV",
+      "Catalog": "Cơ quan, doanh nghiệp",
+      "ImgUrl": "https://tfsassets.azureedge.net/sampletry.jpg"
+    },
+    {
+      "ID": "2",
+      "Name": "Rang Bien 2",
+      "Addr": "Tran Phu, P7, TPTV",
+      "Lat": "9.936128",
+      "Lon": "106.332786",
+      "Description": "Quán ẩm thực các loại, nhưng chủ yếu nổi tiếng và thu hút nhờ các loại hải sản tươi sống, có thể lựa chọn tại hồ. Giá cả hơi cao hơn so với mặt bằng chung nhưng vẫn rất đông khách do chất lượng mang lại không thể tuyệt vời hơn và quán rộng rãi, thoáng mát, phong cách phục vụ chuyên nghiệp",
+      "Catalog": "Ẩm thực"
+    },
+    {
+      "ID": "3",
+      "Name": "Café Phố Mới",
+      "Addr": "100A đường 19/5 nối dài, P1, TPTV",
+      "Lat": "9.940872",
+      "Lon": "106.332179",
+      "Description": "Quán rộng rãi, thoáng mát, có cây cảnh, cá Koi. Phù hợp cho gia đình có con nhỏ xem cá giải trí cuối tuần",
+      "Catalog": "Ẩm thực"
+    },
+    {
+      "ID": "4",
+      "Name": "Bún đậu mắm tôm 3 Hiền",
+      "Addr": "Số 20 đường 19/5 nối dài, P1, TPTV",
+      "Lat": "9.938753",
+      "Lon": "106.336766",
+      "Description": "Thương hiệu bún đậu mắm tôm 3 Hiền đã có nhiều chi nhánh ở các tỉnh thành. Quán sạch sẽ, thoáng mát, nằm trên đường chính kế bên Công viên mới rất dễ tìm. Món ăn ngon, trình bày đẹp, giá cả hợp lý",
+      "Catalog": "Ẩm thực"
+    },
+    {
+      "ID": "5",
+      "Name": "Karaoke Moon",
+      "Addr": "Số 70b đường Phú Hòa, P1, TPTV",
+      "Lat": "9.943093",
+      "Lon": "106.336258",
+      "Description": "Quán có phong cách hiện đại bậc nhất của tỉnh, âm thanh tốt, trang trí đẹp, giá cả hợp lý. Đặc biệt mỗi phòng có một phong cách riêng, được trang trí hoàn toàn khác nhau",
+      "Catalog": "Giải trí"
+    },
+    {
+      "ID": "6",
+      "Name": "Chợ đêm Trà Vinh",
+      "Addr": "đường Lê Lợi, P1, TPTV",
+      "Lat": "9.940123",
+      "Lon": "106.338686",
+      "Description": "Chợ đêm hoạt động từ 5h chiều đến 11h đêm. Mặt hàng phong phú, giá rẻ. Có khu ẩm thực bán nhiều loại thức ăn vặt ngon",
+      "Catalog": "Khu du lịch"
+    },
+    {
+      "ID": "7",
+      "Name": "Ao Bà Om",
+      "Addr": "khóm 3, Lương Hòa, TP. Trà Vinh",
+      "Lat": "9.917773",
+      "Lon": "106.304072",
+      "Description": "Còn được người dân địa phương gọi là Ao Vuông. Khu du lịch nổi tiếng với các cây cổ thụ hàng trăm năm tuổi chạy dài, bao quanh mặt hồ hình vuông rộng 4000 mét vuông tạo nên khung cảnh thơ mộng, mát mẻ",
+      "Catalog": "Khu du lịch"
+    }
+  ]
+}
