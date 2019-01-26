@@ -9,6 +9,15 @@ export default class AttractionListScreen extends React.Component {
     title: 'Attractions List'
   }
 
+  _goToDetail = id => {
+    const { navigation } = this.props
+    console.log('press', id, navigation)
+
+    navigation.push('Detail', {
+      id
+    })
+  }
+
   render () {
     return (
       <View style={styles.container}>
@@ -19,9 +28,7 @@ export default class AttractionListScreen extends React.Component {
               title={Name}
               des={Description}
               imgUrl={ImgUrl}
-              onPress={() => {
-                console.log('press', ID)
-              }}
+              onPress={() => this._goToDetail(ID)}
             />
           )}
           keyExtractor={item => item.ID}
