@@ -6,9 +6,13 @@ const NO_IMAGE_URL =
   'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png'
 export class AttractionItem extends React.PureComponent {
   render () {
-    const { title, des, imgUrl = NO_IMAGE_URL } = this.props
+    const { onPress, title, des, imgUrl = NO_IMAGE_URL } = this.props
     return (
-      <TouchableOpacity style={styles.container} underlayColor='red'>
+      <TouchableOpacity
+        style={styles.container}
+        underlayColor='red'
+        onPress={onPress}
+      >
         <Image source={{ uri: imgUrl }} style={styles.imageLeft} />
         <View style={styles.contentRight}>
           <MonoText style={styles.contentRightTitle}>{title}</MonoText>

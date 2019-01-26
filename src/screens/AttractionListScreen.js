@@ -14,8 +14,15 @@ export default class AttractionListScreen extends React.Component {
       <View style={styles.container}>
         <FlatList
           data={PlacesDataSource}
-          renderItem={({ item: { Name, Description, ImgUrl } }) => (
-            <AttractionItem title={Name} des={Description} imgUrl={ImgUrl} />
+          renderItem={({ item: { ID, Name, Description, ImgUrl } }) => (
+            <AttractionItem
+              title={Name}
+              des={Description}
+              imgUrl={ImgUrl}
+              onPress={() => {
+                console.log('press', ID)
+              }}
+            />
           )}
           keyExtractor={item => item.ID}
         />

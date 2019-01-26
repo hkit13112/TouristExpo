@@ -8,7 +8,7 @@ export default class App extends React.Component {
     isLoadingComplete: false
   }
 
-  render() {
+  render () {
     if (!this.state.isLoadingComplete && !this.props.skipLoadingScreen) {
       return (
         <AppLoading
@@ -20,7 +20,7 @@ export default class App extends React.Component {
     } else {
       return (
         <View style={styles.container}>
-          {Platform.OS === 'ios' && <StatusBar barStyle="default" />}
+          {Platform.OS === 'ios' && <StatusBar barStyle='default' />}
           <AppNavigator />
         </View>
       )
