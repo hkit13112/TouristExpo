@@ -9,3 +9,5 @@ ios/Pods
 android/.gradle
 android/.idea
 android/local.properties
+android/build
+android/app/build
