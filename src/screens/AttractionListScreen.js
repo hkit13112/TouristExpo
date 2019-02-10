@@ -11,8 +11,6 @@ export default class AttractionListScreen extends React.Component {
 
   _goToDetail = id => {
     const { navigation } = this.props
-    console.log('press', id, navigation)
-
     navigation.push('Detail', {
       id
     })
