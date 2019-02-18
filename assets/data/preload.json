@@ -8,16 +8,18 @@
       "Lon": "106.339881",
       "Description": "Cơ quan Bảo hiểm xã hội TPTV",
       "Catalog": "Cơ quan, doanh nghiệp",
+      "specialties": "",
       "ImgUrl": "https://tfsassets.azureedge.net/sampletry.jpg"
     },
     {
       "ID": "2",
-      "Name": "Rang Bien 2",
+      "Name": "Rang Bien 2 1 5",
       "Addr": "Tran Phu, P7, TPTV",
       "Lat": "9.936128",
       "Lon": "106.332786",
       "Description": "Quán ẩm thực các loại, nhưng chủ yếu nổi tiếng và thu hút nhờ các loại hải sản tươi sống, có thể lựa chọn tại hồ. Giá cả hơi cao hơn so với mặt bằng chung nhưng vẫn rất đông khách do chất lượng mang lại không thể tuyệt vời hơn và quán rộng rãi, thoáng mát, phong cách phục vụ chuyên nghiệp",
-      "Catalog": "Ẩm thực"
+      "Catalog": "Ẩm thực",
+      "specialties": "cua huỳnh đế, tôm mũ ni"
     },
     {
       "ID": "3",

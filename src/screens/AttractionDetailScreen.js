@@ -124,7 +124,7 @@ export default class AttractionDetailScreen extends React.Component {
           style={styles.detail}
           contentContainerStyle={styles.detailContent}
         >
-          <TextSection title='Name' content={Name} />
+          <TextSection title='TTaaaaain' content={Name} />
           <TextSection title='Description' content={Description} />
           <TextSection title='Addr' content={Addr} />
           <View style={styles.bottomContainer}>
