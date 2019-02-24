@@ -4,7 +4,7 @@ import { StyleSheet, View, FlatList, TextInput,
 import { AttractionItem } from '@components/AttractionItem'
 
 
-const { Places: PlacesDataSource } = require('@assets/data/preload.json')
+const { Places: PlacesDataSource } = require('@assets/data/dataPlaces.json')
 
 export default class AttractionListScreen extends React.Component {
   static navigationOptions = {
@@ -14,7 +14,7 @@ export default class AttractionListScreen extends React.Component {
   _goToDetail = id => {
     const { navigation } = this.props
     console.log('go to  detail')
-    navigation.push('Detail', {
+    navigation.push('DetailPlace', {
       id
     })
   }

@@ -3,18 +3,24 @@ import { Alert, AppRegistry, Button, StyleSheet, View, TextInput, Text } from 'r
 import {Image} from 'react-native';
 import {BackAndroid} from 'react-native';
 
-export default class ButtonBasics extends Component {
+
+export default class WelcomeScreen extends Component {
+  
+  static navigationOptions = {
+    title: 'DU LỊCH TRÀ VINH'
+  }
+
   _onPressButtonIntro() {
     Alert.alert('Mở videos giới thiệu TV');
   } 
 
-  _onPressButtonPlaces() {
-    Alert.alert('Mở Attration list page');
+ /* _onPressButtonPlaces() {   
+    Alert.alert('Mở Attration list page');    
   } 
 
   _onPressButtonSpecs() {
     Alert.alert('Mở Attration list page (specialits)');
-  }
+  } */
 
   _onPressButtonQuit() {
     BackAndroid.exitApp;
@@ -31,17 +37,18 @@ export default class ButtonBasics extends Component {
     };
     return (     
       <View>      
-        <Image source={require('./assets/VongXoayTV.png')} style={{width: 400, height: 280,resizeMode: 'stretch'}}/>
+        <Image source={require('./VongXoayTV.png')} style={{width: 400, height: 240,resizeMode: 'stretch'}}/>
         <View style={styles.buttonContainer}>
           <Button
-            onPress={this._onPressButtonIntro}
+            onPress={this._onPressButtonIntro}            
             title="Giới thiệu Trà Vinh"
           />
         </View>
 
         <View style={styles.buttonContainer}>
           <Button
-            onPress={this._onPressButtonPlaces}
+           // onPress={this._onPressButtonPlaces}            
+            onPress={() => this.props.navigation.navigate('ListPlaces')}
             title="Địa điểm yêu thích"
             color="#841584"
           />
@@ -49,7 +56,8 @@ export default class ButtonBasics extends Component {
 
         <View style={styles.buttonContainer}>
           <Button
-            onPress={this._onPressButtonSpecs}
+            //onPress={this._onPressButtonSpecs}
+            onPress={() => this.props.navigation.navigate('ListSpecs')}
             title="Đặc sản Trà Vinh"
             color="#641684"
           />
@@ -92,4 +100,4 @@ const styles = StyleSheet.create({
 });
 
 // skip this line if using Create React Native App
-AppRegistry.registerComponent('AwesomeProject', () => ButtonBasics);
+AppRegistry.registerComponent('AwesomeProject', () => WelcomeScreen);

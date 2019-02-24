@@ -5,6 +5,7 @@ import {
   ScrollView,
   Button,
   Dimensions,
+  Image,
   // Platform,
   Linking
 } from 'react-native'
@@ -19,7 +20,8 @@ const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO
 const SPACE = 0.01
 const DEFAULT_PADDING = { top: 10, right: 10, bottom: 10, left: 10 }
 
-const { Places: PlacesDataSource } = require('@assets/data/dataPlaces.json')
+
+const { Specialists: PlacesDataSource } = require('@assets/data/dataSpecs.json')
 
 const TextSection = ({ title, content }) => {
   return (
@@ -96,39 +98,24 @@ export default class AttractionDetailScreen extends React.Component {
 
   render () {
     const {
-      data: { Name, Addr, Description, Lat, Lon },
+      data: { Name, Description, Lat, Lon, ImgUrl },
       markers
     } = this
     return (
       <View style={styles.container}>
-        <MapView
-          style={styles.map}
-          provider={PROVIDER_GOOGLE}
-          ref={ref => {
-            this.map = ref
-            if (this.map) this.fitAllMarkers()
-          }}
-          initialRegion={{
-            latitude: +Lat,
-            longitude: +Lon,
-            latitudeDelta: LATITUDE_DELTA,
-            longitudeDelta: LONGITUDE_DELTA
-          }}
-        >
-          {markers.map((itm, i) => (
-            <Marker key={i} coordinate={itm} identifier='target' />
-          ))}
-          <MyLocationMapMarker identifier='me' />
-        </MapView>
+        <Image 
+          //source={require('./VongXoayTV.png')} 
+          source={{ uri: ImgUrl }}
+          style={{width: 400, height: 220,resizeMode: 'stretch'}}
+        />
         <ScrollView
           style={styles.detail}
           contentContainerStyle={styles.detailContent}
         >
-          <TextSection title='TTaaaaain' content={Name} />
-          <TextSection title='Description' content={Description} />
-          <TextSection title='Addr' content={Addr} />
+          <TextSection title='Tên' content={Name} />
+          <TextSection title='Giới thiệu' content={Description} />          
           <View style={styles.bottomContainer}>
-            <Button title='Direction' onPress={this.doOpenMap} />
+            <Button title='Tìm địa điểm có bán' onPress={this.doOpenMap} />
           </View>
         </ScrollView>
       </View>
