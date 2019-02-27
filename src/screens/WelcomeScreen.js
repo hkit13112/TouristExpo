@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Alert, AppRegistry, Button, StyleSheet, View, TextInput, Text } from 'react-native';
 import {Image} from 'react-native';
 import {BackAndroid} from 'react-native';
+import { Asset, Audio, Font, Video } from 'expo';
 
 
 export default class WelcomeScreen extends Component {
@@ -11,7 +12,18 @@ export default class WelcomeScreen extends Component {
   }
 
   _onPressButtonIntro() {
-    Alert.alert('Mở videos giới thiệu TV');
+    //Alert.alert('Mở videos giới thiệu TV');
+    <Video
+      source={require('./big_buck_bunny.mp4')}
+      rate={1.0}
+      volume={1.0}
+      isMuted={false}
+      resizeMode="cover"
+      shouldPlay
+      isLooping
+      style={{ width: 300, height: 300 }}
+    /> 
+    
   } 
 
  /* _onPressButtonPlaces() {   

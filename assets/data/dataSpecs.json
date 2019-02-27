@@ -4,56 +4,56 @@
       "ID": "1",
       "Name": "Dừa sáp",     
       "Description": "Dừa sáp hay còn gọi Dừa kem (người dân địa phương còn gọi là dừa đặc ruột, có tên khoa học là Makapuno, một loại Dừa tuy về hình thức không có gì khác biệt so với những trái Dừa khác nhưng do đột biến gène hoặc điều kiện thổ nhưỡng, khí hậu, thời tiết…, đã cho ra một loại trái mà bên trong cơm rất dày và mềm dẻo như bột quánh lại, có khi choán gần hết phần không gian bên trong gáo Dừa. Nước cũng rất ít, sền sệt và trong như sương sa. Cái tên “Dừa sáp” quả đã diễn tả khá sinh động tình trạng của cơm dừa bên trong",
-      "Places": ["1", "5","8"],  
+      "InPlaces": ["1", "5","8"],  
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/DuaSap1.png"
     },
     {
       "ID": "2",
       "Name": "Bánh tét Trà Cuôn",     
       "Description": "Bánh tét Trà Cuôn là một trong những đặc sản nổi tiếng của đất Trà Vinh. Với nguyên liệu đơn giản, món ăn dân dã truyền thống này không thể thiếu vào dịp lễ,Tết, đặc biệt là trong lễ hội Oóc-Om-Bok, Đôn-Ta và Tết Chol – Chnam - Thmay của người Khmer nơi đây. Bên cạnh đó, bánh tét còn là món ăn đặc sản, mang nét đặc trưng riêng của mảnh đất này.",
-      "Places": ["3", "4","8"],  
+      "InPlaces": ["3", "4","8"],  
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/BanhTetTraCuon1.png"
     },
     {
       "ID": "3",
       "Name": "Trái Quách",     
       "Description": "Dùng quách dầm sinh tố có thể nói là rất mới lạ đối với nhiều người phương xa, nhưng riêng tại Trà Vinh thì khá phổ biến. Món nước này được ưa dùng vào những ngày hè nóng bức, giúp giải nhiệt rất tốt. Dùng muỗng múc ruột quách cho vào ly, thêm đường, sữa cùng nước đá, ta sẽ có một thứ nước giải khát lạ miệng. Nếm thử một muỗng quách, mùi thơm lập tức phảng phất lên cánh mũi, vị chua thanh làm vị giác tê mê. Đường ngọt và sữa béo hòa vào nhau trong từng miếng quách sền sệt trông như kem tươi thơm béo.",
-      "Places": ["2", "9","15"],  
+      "InPlaces": ["2", "9","15"],  
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/TraiQuach1.png"
     },
     {
       "ID": "4",
       "Name": "Bún nước lèo",     
       "Description": "Bún nước lèo khá phổ biển ở một số tỉnh miền Tây Nam Bộ như Cần Thơ, Kiên Giang, Cà Mau, Bạc Liêu, Sóc Trăng… Tuy nhiên, bún nước lèo Trà Vinh lại mang đến cho thực khách hương vị đặc trưng riêng. Món ngon này là sự kết hợp hoàn hảo của bún, thịt heo quay, mắm bò hóc cùng nước dùng có vị ngọt tự nhiên của tôm, cá tạo món bún vô cùng độc đáo.",
-      "Places": ["6", "7","11","17"],  
+      "InPlaces": ["6", "7","11","17"],  
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/BunNuocLeo1.png"
     },
     {
       "ID": "5",
       "Name": "Nước mắm rươi",     
       "Description": "Nước mắm rươi còn gọi là 'nước mắm ngự' vì sử sách kể rằng chúa Nguyễn Ánh  từng bôn tẩu đến đất Trà Vinh. Người dân địa phương dâng lên món nước mắm đặc sản này và Chúa vô cùng yêu thích. Khi lên ngôi thiên tử đóng đô tại Huế, năm nào nhà vua cũng cử ghe bầu vào tới đây mua nước mắm đặc sản Trà Vinh về ăn.",
-      "Places": ["4", "9"],  
+      "InPlaces": ["4", "9"],  
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/NuocMamRuoi1.png"
     },
     {
       "ID": "6",
       "Name": "Tôm khô Vinh Kim",     
       "Description": "Trà Vinh nổi tiếng gần xa với đặc sản tôm khô Vĩnh Kim. Đặc biệt, tôm khô Vinh Kim được Cục sở hữu trí tuệ công nhận là thương hiệu độc quyền trên thị trường. Tôm khô Vinh Kim nổi tiếng vì độ an toàn và đặc biệt dùng nguyên liệu tép bạc đất sẵn có trong tự nhiên, không phải tép nuôi. Khi chế biến, người ta không hề dùng phẩm màu nhưng tôm khô có màu sắc đẹp, đỏ hồng, thịt rất chắc, dai, vị ngon đậm đà không thể nào quên. Cái tên Vinh Kim chính là nơi xuất xứ của con tôm: xã Vinh Kim. Xã nhỏ bé nằm giữa hai con sông lớn Cổ Chiên và Cung Hầu có điều kiện tự nhiên thuận lợi, thích hợp cho tép bạc sinh sống, phát triển.",
-      "Places": ["11", "17","20"],  
+      "InPlaces": ["11", "17","20"],  
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/TomKhoVinhKim1.png"
     },
     {
       "ID": "7",
       "Name": "Chù ụ rang me",     
       "Description": "Chù ụ thuộc họ nhà cua, thân hình vuông nhỏ, hai càng to màu đỏ. Nhìn kỹ trên mai chù ụ có nhiều vết sần sùi, hai mắt sụp sụp trông vô cùng buồn rầu. Thế nên, người dân địa phương mới gọi nó là chụ ụ. Tuy vẻ ngoài xấu xí thế nhưng người Trà Vinh chế biến chù ụ thành nhiều món ngon rất hấp dẫn du khách. Chù ụ có thể chế biến món chù ụ nướng than, chù ụ rang me...",
-      "Places": ["3", "12","13","19"],  
+      "InPlaces": ["3", "12","13","19"],  
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/ChuURangMe1.png"
     },
     {
       "ID": "8",
       "Name": "Chuối Tá Quạ",     
       "Description": "Chuối tá quạ (có địa phương còn gọi là táo quạ) là đặc sản của huyện Cầu Kè (tỉnh Trà Vinh). Loại chuối này ít trái nên trước đây, người dân Trà Vinh chỉ trồng ít trong vườn để ăn hoặc làm quà biếu. Chuối tá quạ trồng khoảng 8 – 9 tháng thì ra hoa. Một buồng chuối tá quạ thông thường chỉ có 1 – 2 nải, mỗi nải nhiều lắm cũng chỉ được khoảng 10 trái, mỗi quả chuối tá quạ nặng từ 0,5 - hơn 1kg, dài khoảng 35 - 40 cm",
-      "Places": ["4", "5","7","15","20"],  
+      "InPlaces": ["4", "5","7","15","20"],  
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/ChuoiTaQua1.png"
     }    
   ]

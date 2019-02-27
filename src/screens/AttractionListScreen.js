@@ -29,8 +29,7 @@ export default class AttractionListScreen extends React.Component {
   }
 
   render () {
-    return (
-      
+    return (      
       <View style={styles.defaultstyle}>
         <View style={{backgroundColor: 'lightblue', paddingLeft: 20,width: 320, flexDirection:'row', justifyContent: 'space-between'}}>
           <View>

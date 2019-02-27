@@ -69,38 +69,19 @@ export default class AttractionDetailScreen extends React.Component {
     super(props)
     const { navigation } = this.props
     this.id = navigation.getParam('id', 'NO-ID')
-    this.data = PlacesDataSource.find(({ ID }) => ID === this.id)
-    this.markers = [this.createMarker(+this.data.Lat, +this.data.Lon)]
+    this.data = PlacesDataSource.find(({ ID }) => ID === this.id)    
   }
 
-  doOpenMap = () => {
-    const {
-      data: { Lat, Lon }
-    } = this
-    Linking.openURL(`http://maps.google.com/maps?daddr=${Lat},${Lon}`)
-  }
-
-  createMarker (lat, lon, modifier = 1) {
-    return {
-      latitude: lat - SPACE * modifier,
-      longitude: lon - SPACE * modifier
-    }
-  }
-
-  fitAllMarkers () {
-    setTimeout(() => {
-      this.map.fitToSuppliedMarkers(['target', 'me'], {
-        animated: true,
-        edgePadding: DEFAULT_PADDING
-      })
-    }, 1000)
+  _doFindPlaces = id => {
+    console.log('Click on find places')
+    const { navigation } = this.props    
+    navigation.push('DetailPlace', {
+      id
+    })
   }
 
   render () {
-    const {
-      data: { Name, Description, Lat, Lon, ImgUrl },
-      markers
-    } = this
+    const {data: { Name, Description, ImgUrl,InPlaces } }= this
     return (
       <View style={styles.container}>
         <Image 
@@ -113,9 +94,13 @@ export default class AttractionDetailScreen extends React.Component {
           contentContainerStyle={styles.detailContent}
         >
           <TextSection title='Tên' content={Name} />
-          <TextSection title='Giới thiệu' content={Description} />          
+          <TextSection title='Giới thiệu' content={Description} /> 
+          <TextSection title='Cac dia diem' content={InPlaces[1]} />        
           <View style={styles.bottomContainer}>
-            <Button title='Tìm địa điểm có bán' onPress={this.doOpenMap} />
+            <Button 
+              title='Tìm địa điểm có bán'
+              onPress={() => this._doFindPlaces(InPlaces[1])}
+            />
           </View>
         </ScrollView>
       </View>
