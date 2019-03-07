@@ -19,7 +19,7 @@ const LONGITUDE_DELTA = LATITUDE_DELTA * ASPECT_RATIO
 const SPACE = 0.01
 const DEFAULT_PADDING = { top: 10, right: 10, bottom: 10, left: 10 }
 
-const { Places: PlacesDataSource } = require('@assets/data/preload.json')
+const { Places: PlacesDataSource } = require('@assets/data/dataPlaces.json')
 
 const TextSection = ({ title, content }) => {
   return (
@@ -124,11 +124,11 @@ export default class AttractionDetailScreen extends React.Component {
           style={styles.detail}
           contentContainerStyle={styles.detailContent}
         >
-          <TextSection title='Name' content={Name} />
-          <TextSection title='Description' content={Description} />
-          <TextSection title='Addr' content={Addr} />
+          <TextSection title='Tên:' content={Name} />
+          <TextSection title='Giới thiệu:' content={Description} />
+          <TextSection title='Địa chỉ:' content={Addr} />
           <View style={styles.bottomContainer}>
-            <Button title='Direction' onPress={this.doOpenMap} />
+            <Button title='Tìm đường' onPress={this.doOpenMap} />
           </View>
         </ScrollView>
       </View>

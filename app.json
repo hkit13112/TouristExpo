@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DemoTour",
-    "slug": "demotour",
+    "name": "DemoTour2",
+    "slug": "demotour2",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -39,6 +39,6 @@
       "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.10.5-sdk32.0.0-6b87ee30-8cbe-4cc6-b5ba-b03b77e34f90.tar.gz"
     },
     "scheme": "exp295bf430433142f4b24392a4a9b9d982",
-    "description": ""
+    "description": "Update 25/02/2019"
   }
 }

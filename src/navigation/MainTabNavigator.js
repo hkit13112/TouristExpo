@@ -8,13 +8,19 @@ import {
 import TabBarIcon from '@components/TabBarIcon'
 // import HomeScreen from '@screens/HomeScreen'
 import AttractionListScreen from '@screens/AttractionListScreen'
+import AttractionListSpecScreen from '@screens/AttractionListSpecScreen'
 import AttractionDetailScreen from '@screens/AttractionDetailScreen'
+import AttractionDetailSpecScreen from '@screens/AttractionDetailSpecScreen'
 import LinksScreen from '@screens/LinksScreen'
 import SettingsScreen from '@screens/SettingsScreen'
+import WelcomeScreen from '@screens/WelcomeScreen'
 
 const HomeStack = createStackNavigator({
-  Home: AttractionListScreen,
-  Detail: AttractionDetailScreen
+  Home: WelcomeScreen,
+  ListPlaces: AttractionListScreen,
+  ListSpecs: AttractionListSpecScreen,
+  DetailSpec: AttractionDetailSpecScreen,
+  DetailPlace: AttractionDetailScreen
 })
 
 HomeStack.navigationOptions = {
