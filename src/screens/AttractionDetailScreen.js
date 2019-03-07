@@ -126,7 +126,7 @@ export default class AttractionDetailScreen extends React.Component {
         >
           <TextSection title='Tên:' content={Name} />
           <TextSection title='Giới thiệu:' content={Description} />
-          <TextSection title='Địa chỉ:' content={Addr} />
+          <TextSection title='Địa chỉ:' content={Addr} />      
           <View style={styles.bottomContainer}>
             <Button title='Tìm đường' onPress={this.doOpenMap} />
           </View>
