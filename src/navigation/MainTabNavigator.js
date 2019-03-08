@@ -13,6 +13,7 @@ import AttractionDetailScreen from '@screens/AttractionDetailScreen'
 import AttractionDetailSpecScreen from '@screens/AttractionDetailSpecScreen'
 import AttractionListFestivalScreen from '@screens/AttractionListFestivalScreen'
 import AttrationDetailFestivalScreen from '@screens/AttractionDetailFestivalScreen'
+
 import LinksScreen from '@screens/LinksScreen'
 import SettingsScreen from '@screens/SettingsScreen'
 import WelcomeScreen from '@screens/WelcomeScreen'

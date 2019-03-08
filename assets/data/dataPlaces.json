@@ -7,7 +7,7 @@
       "Lat": "9.933469",
       "Lon": "106.339881",
       "Description": "Cơ quan Bảo hiểm xã hội TP.Trà Vinh places",
-      "Catalog": "Cơ quan, doanh nghiệp",      
+      "Catalog": "Cơ quan, doanh nghiệp",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/LogoBHXH.png"
     },
     {
@@ -19,6 +19,7 @@
       "Description": "Quán ẩm thực các loại, nhưng chủ yếu nổi tiếng và thu hút nhờ các loại hải sản tươi sống, có thể lựa chọn tại hồ. Giá cả hơi cao hơn so với mặt bằng chung nhưng vẫn rất đông khách do chất lượng mang lại không thể tuyệt vời hơn và quán rộng rãi, thoáng mát, phong cách phục vụ chuyên nghiệp",
       "Catalog": "Ẩm thực",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/RangBien.png"
+
     },
     {
       "ID": "3",
@@ -29,6 +30,7 @@
       "Description": "Quán rộng rãi, thoáng mát, có cây cảnh, cá Koi. Phù hợp cho gia đình có con nhỏ xem cá giải trí cuối tuần",
       "Catalog": "Ẩm thực",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/CfPhoMoi.png"
+
     },
     {
       "ID": "4",
@@ -39,6 +41,7 @@
       "Description": "Thương hiệu bún đậu mắm tôm 3 Hiền đã có nhiều chi nhánh ở các tỉnh thành. Quán sạch sẽ, thoáng mát, nằm trên đường chính kế bên Công viên mới rất dễ tìm. Món ăn ngon, trình bày đẹp, giá cả hợp lý",
       "Catalog": "Ẩm thực",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/Bundau3Hien.png"
+
     },
     {
       "ID": "5",
@@ -49,6 +52,7 @@
       "Description": "Quán có phong cách hiện đại bậc nhất của tỉnh, âm thanh tốt, trang trí đẹp, giá cả hợp lý. Đặc biệt mỗi phòng có một phong cách riêng, được trang trí hoàn toàn khác nhau",
       "Catalog": "Giải trí",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/KaraMoon.png"
+
     },
     {
       "ID": "6",
@@ -59,6 +63,7 @@
       "Description": "Chợ đêm hoạt động từ 5h chiều đến 11h đêm. Mặt hàng phong phú, giá rẻ. Có khu ẩm thực bán nhiều loại thức ăn vặt ngon",
       "Catalog": "Khu du lịch",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/ChoTV.png"
+
     },
     {
       "ID": "7",
@@ -79,6 +84,7 @@
       "Description": "Siêu thị điện máy lớn, thương hiệu Nguyễn Kim nổi tiếng trên toàn quốc với đầy đủ các thiết bị điện máy như máy lạnh, tủ lạnh, máy giặt....",
       "Catalog": "Cơ quan/Doanh nghiệp",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/NguyenKim.png"
+
     },
     {
       "ID": "9",
@@ -99,6 +105,7 @@
       "Description": "Trụ sở làm việc chính của công ty Viettel tỉnh Trà Vinh. Tầng trệt có khu trưng bày điện thoại, phòng chăm sóc khách hàng điện thoại/internet và phòng dịch vụ chuyển phát nhanh",
       "Catalog": "Cơ quan/Doanh nghiệp",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/Viettel.png"
+
     },
     {
       "ID": "11",
@@ -109,6 +116,7 @@
       "Description": "Trường Đại học Trà Vinh cung cấp các chương trình đào tạo đa cấp, liên thông, đa ngành nghề cho mọi đối tượng người dân ở mọi lứa tuổi, có sự quan tâm đặc biệt đến phụ nữ, đồng bào dân tộc thiểu số và các cộng đồng dân cư có nhu cầu đặc biệt; đáp ứng linh hoạt nhu cầu học tập suốt đời của người học; tạo sự gắn kết chặt chẽ với doanh nghiệp, đơn vị tuyển dụng; năng động trong phục vụ xã hội thông qua nghiên cứu, chuyển giao kỹ thuật, công nghệ, sản phẩm phù hợp với nhu cầu sản xuất, đời sống xã hội; góp phần quan trọng thúc đẩy phát triển kinh tế – xã hội của tỉnh Trà Vinh nói riêng, Đồng bằng sông Cửu Long và cả nước nói chung.",
       "Catalog": "Cơ quan/Doanh nghiệp",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/TruongDHTV.png"
+
     },
     {
       "ID": "12",
@@ -119,6 +127,7 @@
       "Description": "Khu liên hợp thể thao tư nhân gồm: bóng đá mini, cầu lông và bơi lội. Thường được lựa chọn để tổ chức các giải đấu do rộng rãi, có nhiều sân bóng, sân cầu lông",
       "Catalog": "Thể thao",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/TrungNgocSport.png"
+
     },
     {
       "ID": "13",
@@ -139,6 +148,7 @@
       "Description": "Tên đầy đủ là chùa Ông Phước Minh Cung, người dân địa phương thường gọi tắt là Chùa Ông. Đây là ngôi chùa của người dân tộc Hoa lâu đời ở trung tâm thành phố, là nơi tập trung cầu an cho năm mới trong dịp giao thừa tết Nguyên Đán hàng năm. Mỗi đêm giao thừa, nơi đây đón tiếp hàng ngàn lượt khách viếng thăm.",
       "Catalog": "Khu du lịch",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/ChuaOng.png"
+
     },
     {
       "ID": "15",
@@ -179,6 +189,7 @@
       "Description": "Hệ thống siêu thị bán lẻ lớn nhất nước, các mặt hàng thực phẩm, may mặc, gia dụng....phong phú, giá rẻ",
       "Catalog": "Cơ quan/Doanh nghiệp",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/CoopMartTV.png"
+
     },
     {
       "ID": "19",
@@ -189,6 +200,7 @@
       "Description": "Chợ Lớn của tỉnh, buôn bán đầy đủ các loại hàng hóa, thức ăn, đồ chơi trẻ em, v.v.... Ban đêm là nơi tập trung khách đến ăn uống tại khu ẩm thực gồm nhiều món ngon như hủ tíu xương, miến gà, các loại chè, sinh tố....",
       "Catalog": "Cơ quan/Doanh nghiệp",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/ChoTV.png"
+
     },
     {
       "ID": "20",
@@ -199,6 +211,7 @@
       "Description": "Còn được người dân địa phương gọi là Ao Vuông. Khu du lịch nổi tiếng với các cây cổ thụ hàng trăm năm tuổi chạy dài, bao quanh mặt hồ hình vuông rộng 4000 mét vuông tạo nên khung cảnh thơ mộng, mát mẻ",
       "Catalog": "Khu du lịch",
       "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/AoBaOm.png"
+
     }
   ]
 }

@@ -52,6 +52,7 @@ export default class AttractionListScreen extends React.Component {
         <FlatList style={{padding: 5}}
           data={PlacesDataSource}
           renderItem={({ item: { ID, Name, Description, ImgUrl, InPlaces } }) => (
+
             <AttractionItem
               title={Name}
               des={Description}

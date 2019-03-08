@@ -38,6 +38,7 @@ export default class AttractionListScreen extends React.Component {
             placeholder="Tìm kiếm"
           />
           </View>
+
           <View>
           <TouchableOpacity onPress={this._onPressButton}>
             <Image
