@@ -3,141 +3,141 @@
     "id": "1",
     "longitude": "106.339881",
     "latitude": "9.933469",
-    "description": "Bảo hiểm xã hội TPTV",
-    "name": "POI#1"
+    "description": "Trần Phú, P2, TPTV",
+    "name": "Bảo hiểm xã hội TPTV"
   },
   {
     "id": "2",
     "longitude": "106.332786",
     "latitude": "9.936128",
-    "description": "Quán ăn Hùng Biển",
-    "name": "POI#2"
+    "description": "Tran Phu, P7, TPTV",
+    "name": "Quán ăn Hùng Biển"
   },
   {
     "id": "3",
     "longitude": "106.332179",
     "latitude": "9.940872",
-    "description": "CF Phố Mới",
-    "name": "POI#3"
+    "description": "100A đường 19/5 nối dài, P1, TPTV",
+    "name": "Cafe Phố Mới"
   },
   {
     "id": "4",
     "longitude": "106.336766",
     "latitude": "9.938753",
-    "description": "Bún đậu mắm tôm 3 Hiền",
-    "name": "POI#4"
+    "description": "Số 20 đường 19/5 nối dài, P1, TPTV",
+    "name": "Bún đậu mắm tôm 3 Hiền"
   },
   {
     "id": "5",
     "longitude": "106.336258",
     "latitude": "9.943093",
-    "description": "Karaoke Moon",
-    "name": "POI#5"
+    "description": "Số 70b đường Phú Hòa, P1, TPTV",
+    "name": "Karaoke Moon"
   },
   {
     "id": "6",
     "longitude": "106.338686",
     "latitude": "9.940123",
-    "description": "Chợ đêm TV",
-    "name": "POI#6"
+    "description": "đường Lê Lợi, P1, TPTV",
+    "name": "Chợ đêm TV"
   },
   {
     "id": "7",
     "longitude": "106.335480",
     "latitude": "9.933598",
-    "description": "Tiệm Cơm Tín Thành",
-    "name": "POI#7"
+    "description": "Đường Nguyễn Thị Minh Khai, Phường 7, TP. Trà Vinh, Trà Vinh",
+    "name": "Tiệm Cơm Tín Thành"
   },
   {
     "id": "8",
     "longitude": "9.924145",
     "latitude": "106.339744",
-    "description": "Nguyễn Kim",
-    "name": "POI#8"
+    "description": "số 560B đường Nguyễn Đáng, Phường 6, TP. Trà Vinh",
+    "name": "Nguyễn Kim"
   },
   {
     "id": "9",
-    "longitude": "0.069",
-    "latitude": "0.068",
-    "description": "This is the description of POI#9",
-    "name": "POI#9"
+    "longitude": "106.334066",
+    "latitude": "9.926303",
+    "description": "Số 7 đường Nguyễn Đáng Nguyễn Đáng, Phường 7, TP. Trà Vinh",
+    "name": "Nhà sách Khai Trí"
   },
   {
     "id": "10",
-    "longitude": "-0.016",
-    "latitude": "-0.093",
-    "description": "This is the description of POI#10",
-    "name": "POI#10"
+    "longitude": "9.927753",
+    "latitude": "106.331477",
+    "description": "Số 156 đường Nguyễn Đáng, Phường 7, TP. Trà Vinh",
+    "name": "Viettel Trà Vinh"
   },
   {
     "id": "11",
-    "longitude": "-0.058",
-    "latitude": "-0.097",
-    "description": "This is the description of POI#11",
-    "name": "POI#11"
+    "longitude": "106.341346",
+    "latitude": "9.917473",
+    "description": "Điện Biên Phủ, Phường 9, TP. Trà Vinh",
+    "name": "Sân bóng đá mini Trung Ngọc"
   },
   {
     "id": "12",
-    "longitude": "0.028",
-    "latitude": "0.095",
-    "description": "This is the description of POI#12",
-    "name": "POI#12"
+    "longitude": "9.922937",
+    "latitude": "106.346043",
+    "description": "Số 126 Nguyễn Thiện Thành, Phường 5, TP. Trà Vinh",
+    "name": "Trường Đại học Trà Vinh"
   },
   {
     "id": "13",
-    "longitude": "-0.009",
-    "latitude": "0.043",
-    "description": "This is the description of POI#13",
-    "name": "POI#13"
+    "longitude": "106.337527",
+    "latitude": "9.938467",
+    "description": "19 Tháng 5, Phường 1, TP. Trà Vinh",
+    "name": "Nhà thi đấu thể thao"
   },
   {
     "id": "14",
-    "longitude": "-0.022",
-    "latitude": "-0.099",
-    "description": "This is the description of POI#14",
-    "name": "POI#14"
+    "longitude": "106.341447",
+    "latitude": "9.934495",
+    "description": "44 Điện Biên Phủ, Phường 3, Trà Vinh",
+    "name": "Chùa ông"
   },
   {
     "id": "15",
-    "longitude": "0.062",
-    "latitude": "-0.036",
-    "description": "This is the description of POI#15",
-    "name": "POI#15"
+    "longitude": "106.341945",
+    "latitude": "9.937160",
+    "description": "Số 1 đường Phạm Thái Bường, phường 4, TP. Trà Vinh",
+    "name": "Khách sạn Thanh Trà"
   },
   {
     "id": "16",
-    "longitude": "0.077",
-    "latitude": "0.054",
-    "description": "This is the description of POI#16",
-    "name": "POI#16"
+    "longitude": "106.339196",
+    "latitude": "9.943205",
+    "description": "Đường Phạm Ngũ Lão, phường 1, TP.Trà Vinh",
+    "name": "Cát Tường The Coffee House"
   },
   {
     "id": "17",
-    "longitude": "0.035",
-    "latitude": "0.007",
-    "description": "This is the description of POI#17",
-    "name": "POI#17"
+    "longitude": "106.341551",
+    "latitude": "9.935779",
+    "description": "Đường Phạm Thái Bường, Phường 3, TP.Trà Vinh",
+    "name": "Chả Hoa Năm Thụy"
   },
   {
     "id": "18",
-    "longitude": "0.07",
-    "latitude": "0.071",
-    "description": "This is the description of POI#18",
-    "name": "POI#18"
+    "longitude": "106.340511",
+    "latitude": "9.923936",
+    "description": "Nguyễn Đáng, phường 6, TP. Trà Vinh",
+    "name": "Siêu thị Coopmart Trà Vinh"
   },
   {
     "id": "19",
-    "longitude": "0.043",
-    "latitude": "-0.022",
-    "description": "This is the description of POI#19",
-    "name": "POI#19"
+    "longitude": "106.341831",
+    "latitude": "9.935576",
+    "description": "Phường 3, TP. Trà Vinh",
+    "name": "Chợ Trà Vinh"
   },
   {
     "id": "20",
-    "longitude": "-0.081",
-    "latitude": "0.055",
-    "description": "This is the description of POI#20",
-    "name": "POI#20"
+    "longitude": "106.304072",
+    "latitude": "9.917773",
+    "description": "khóm 3, Lương Hòa, TP. Trà Vinh",
+    "name": "Ao Bà Om"
   },
   {
     "id": "21",
