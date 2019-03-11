@@ -50,8 +50,8 @@
   },
   {
     "id": "8",
-    "longitude": "9.924145",
-    "latitude": "106.339744",
+    "longitude": "106.339744",
+    "latitude": "9.924145",
     "description": "số 560B đường Nguyễn Đáng, Phường 6, TP. Trà Vinh",
     "name": "Nguyễn Kim"
   },
@@ -64,8 +64,8 @@
   },
   {
     "id": "10",
-    "longitude": "9.927753",
-    "latitude": "106.331477",
+    "longitude": "106.331477",
+    "latitude": "9.927753",
     "description": "Số 156 đường Nguyễn Đáng, Phường 7, TP. Trà Vinh",
     "name": "Viettel Trà Vinh"
   },
@@ -78,8 +78,8 @@
   },
   {
     "id": "12",
-    "longitude": "9.922937",
-    "latitude": "106.346043",
+    "longitude": "106.346043",
+    "latitude": "9.922937",
     "description": "Số 126 Nguyễn Thiện Thành, Phường 5, TP. Trà Vinh",
     "name": "Trường Đại học Trà Vinh"
   },
