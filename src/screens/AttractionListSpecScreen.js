@@ -31,7 +31,6 @@ export default class AttractionListScreen extends React.Component {
   }
 
 
-
   render () {
     return (
       
