@@ -1,0 +1,204 @@
+{
+  "Places": [
+    {
+      "ID": "1",
+      "Name": "BHXH TP.Trà Vinh",
+      "Addr": "Trần Phú, P2, TPTV",
+      "Lat": "9.933469",
+      "Lon": "106.339881",
+      "Description": "Cơ quan Bảo hiểm xã hội TP.Trà Vinh places",
+      "Catalog": "Cơ quan, doanh nghiệp",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/LogoBHXH.png"
+    },
+    {
+      "ID": "2",
+      "Name": "Quán ăn Hùng Biển",
+      "Addr": "Tran Phu, P7, TPTV",
+      "Lat": "9.936128",
+      "Lon": "106.332786",
+      "Description": "Quán ẩm thực các loại, nhưng chủ yếu nổi tiếng và thu hút nhờ các loại hải sản tươi sống, có thể lựa chọn tại hồ. Giá cả hơi cao hơn so với mặt bằng chung nhưng vẫn rất đông khách do chất lượng mang lại không thể tuyệt vời hơn và quán rộng rãi, thoáng mát, phong cách phục vụ chuyên nghiệp",
+      "Catalog": "Ẩm thực",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/RangBien.png"
+    },
+    {
+      "ID": "3",
+      "Name": "Café Phố Mới",
+      "Addr": "100A đường 19/5 nối dài, P1, TPTV",
+      "Lat": "9.940872",
+      "Lon": "106.332179",
+      "Description": "Quán rộng rãi, thoáng mát, có cây cảnh, cá Koi. Phù hợp cho gia đình có con nhỏ xem cá giải trí cuối tuần",
+      "Catalog": "Ẩm thực",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/CfPhoMoi.png"
+    },
+    {
+      "ID": "4",
+      "Name": "Bún đậu mắm tôm 3 Hiền",
+      "Addr": "Số 20 đường 19/5 nối dài, P1, TPTV",
+      "Lat": "9.938753",
+      "Lon": "106.336766",
+      "Description": "Thương hiệu bún đậu mắm tôm 3 Hiền đã có nhiều chi nhánh ở các tỉnh thành. Quán sạch sẽ, thoáng mát, nằm trên đường chính kế bên Công viên mới rất dễ tìm. Món ăn ngon, trình bày đẹp, giá cả hợp lý",
+      "Catalog": "Ẩm thực",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/Bundau3Hien.png"
+    },
+    {
+      "ID": "5",
+      "Name": "Karaoke Moon",
+      "Addr": "Số 70b đường Phú Hòa, P1, TPTV",
+      "Lat": "9.943093",
+      "Lon": "106.336258",
+      "Description": "Quán có phong cách hiện đại bậc nhất của tỉnh, âm thanh tốt, trang trí đẹp, giá cả hợp lý. Đặc biệt mỗi phòng có một phong cách riêng, được trang trí hoàn toàn khác nhau",
+      "Catalog": "Giải trí",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/KaraMoon.png"
+    },
+    {
+      "ID": "6",
+      "Name": "Chợ đêm Trà Vinh",
+      "Addr": "đường Lê Lợi, P1, TPTV",
+      "Lat": "9.940123",
+      "Lon": "106.338686",
+      "Description": "Chợ đêm hoạt động từ 5h chiều đến 11h đêm. Mặt hàng phong phú, giá rẻ. Có khu ẩm thực bán nhiều loại thức ăn vặt ngon",
+      "Catalog": "Khu du lịch",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/ChoTV.png"
+    },
+    {
+      "ID": "7",
+      "Name": "Tiệm cơm Tín Thành",
+      "Addr": "Đường Nguyễn Thị Minh Khai, Phường 7, TP. Trà Vinh, Trà Vinh",
+      "Lat": "9.933598",
+      "Lon": "106.335480",
+      "Description": "Một trong những quán cơm nổi tiếng và lâu đời ở TPTV. Chất lượng đồ ăn tuyệt vời, có cơm dĩa, cơm phần, thường được người dân địa phương chọn để đãi khách tỉnh bạn ghé thăm",
+      "Catalog": "Ẩm thực",
+      "ImgUrl": "https://tfsassets.azureedge.net/sampletry.jpg"
+    },
+    {
+      "ID": "8",
+      "Name": "Siêu thị điện máy Nguyễn Kim",
+      "Addr": "số 560B đường Nguyễn Đáng, Phường 6, TP. Trà Vinh",
+      "Lat": "9.924145",
+      "Lon": "106.339744",
+      "Description": "Siêu thị điện máy lớn, thương hiệu Nguyễn Kim nổi tiếng trên toàn quốc với đầy đủ các thiết bị điện máy như máy lạnh, tủ lạnh, máy giặt....",
+      "Catalog": "Cơ quan/Doanh nghiệp",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/NguyenKim.png"
+    },
+    {
+      "ID": "9",
+      "Name": "Nhà sách Khai Trí",
+      "Addr": "Số 7 đường Nguyễn Đáng Nguyễn Đáng, Phường 7, TP. Trà Vinh",
+      "Lat": "9.926303",
+      "Lon": "106.334066",
+      "Description": "Nhà sách lớn rất phong phú về thể loại sách, các vật phẩm, thiết bị văn phòng. Ngoài ra có bán nhiều đồ chơi trẻ em, quà lưu niệm",
+      "Catalog": "Cơ quan/Doanh nghiệp",
+      "ImgUrl": "https://tfsassets.azureedge.net/sampletry.jpg"
+    },
+    {
+      "ID": "10",
+      "Name": "Viettel Trà Vinh",
+      "Addr": "Số 156 đường Nguyễn Đáng, Phường 7, TP. Trà Vinh",
+      "Lat": "9.927753",
+      "Lon": "106.331477",
+      "Description": "Trụ sở làm việc chính của công ty Viettel tỉnh Trà Vinh. Tầng trệt có khu trưng bày điện thoại, phòng chăm sóc khách hàng điện thoại/internet và phòng dịch vụ chuyển phát nhanh",
+      "Catalog": "Cơ quan/Doanh nghiệp",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/Viettel.png"
+    },
+    {
+      "ID": "11",
+      "Name": "Trường Đại học Trà Vinh",
+      "Addr": "Số 126 Nguyễn Thiện Thành, Phường 5, TP. Trà Vinh",
+      "Lat": "9.922937",
+      "Lon": "106.346043",
+      "Description": "Trường Đại học Trà Vinh cung cấp các chương trình đào tạo đa cấp, liên thông, đa ngành nghề cho mọi đối tượng người dân ở mọi lứa tuổi, có sự quan tâm đặc biệt đến phụ nữ, đồng bào dân tộc thiểu số và các cộng đồng dân cư có nhu cầu đặc biệt; đáp ứng linh hoạt nhu cầu học tập suốt đời của người học; tạo sự gắn kết chặt chẽ với doanh nghiệp, đơn vị tuyển dụng; năng động trong phục vụ xã hội thông qua nghiên cứu, chuyển giao kỹ thuật, công nghệ, sản phẩm phù hợp với nhu cầu sản xuất, đời sống xã hội; góp phần quan trọng thúc đẩy phát triển kinh tế – xã hội của tỉnh Trà Vinh nói riêng, Đồng bằng sông Cửu Long và cả nước nói chung.",
+      "Catalog": "Cơ quan/Doanh nghiệp",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/TruongDHTV.png"
+    },
+    {
+      "ID": "12",
+      "Name": "Sân bóng đá mini Trung Ngọc",
+      "Addr": "Điện Biên Phủ, Phường 9, TP. Trà Vinh",
+      "Lat": "9.917473",
+      "Lon": "106.341346",
+      "Description": "Khu liên hợp thể thao tư nhân gồm: bóng đá mini, cầu lông và bơi lội. Thường được lựa chọn để tổ chức các giải đấu do rộng rãi, có nhiều sân bóng, sân cầu lông",
+      "Catalog": "Thể thao",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/TrungNgocSport.png"
+    },
+    {
+      "ID": "13",
+      "Name": "Nhà thi đấu thể thao",
+      "Addr": "19 Tháng 5, Phường 1, TP. Trà Vinh",
+      "Lat": "9.938467",
+      "Lon": "106.337527",
+      "Description": "Nhà thi đấu các môn thể thao trong nhà, thường được các cơ quan, ban ngành lựa chọn để tổ chức các giải thi đấu cầu lông, bóng bàn, kéo co, võ thuật....",
+      "Catalog": "Thể thao",
+      "ImgUrl": "https://tfsassets.azureedge.net/sampletry.jpg"
+    },
+    {
+      "ID": "14",
+      "Name": "Chùa ông",
+      "Addr": "44 Điện Biên Phủ, Phường 3, Trà Vinh, Việt Nam",
+      "Lat": "9.934495",
+      "Lon": "106.341447",
+      "Description": "Tên đầy đủ là chùa Ông Phước Minh Cung, người dân địa phương thường gọi tắt là Chùa Ông. Đây là ngôi chùa của người dân tộc Hoa lâu đời ở trung tâm thành phố, là nơi tập trung cầu an cho năm mới trong dịp giao thừa tết Nguyên Đán hàng năm. Mỗi đêm giao thừa, nơi đây đón tiếp hàng ngàn lượt khách viếng thăm.",
+      "Catalog": "Khu du lịch",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/ChuaOng.png"
+    },
+    {
+      "ID": "15",
+      "Name": "Khách sạn Thanh Trà",
+      "Addr": "Số 1 đường Phạm Thái Bường, phường 4, TP. Trà Vinh",
+      "Lat": "9.937160",
+      "Lon": "106.341945",
+      "Description": "Khách sạn thuộc công ty Lương Thực Trà Vinh, là một trong hai khách sạn lâu đời nhất tại Trà Vinh. Tọa lạc ở vị trí trung tâm của tỉnh, cách chợ lớn của tỉnh khoảng 200m, thường được các cơ quan đặt để tiếp đón khách từ các tỉnh khác đến công tác",
+      "Catalog": "Cơ quan/Doanh nghiệp",
+      "ImgUrl": "https://tfsassets.azureedge.net/sampletry.jpg"
+    },
+    {
+      "ID": "16",
+      "Name": "Cát Tường The Coffee House",
+      "Addr": "Đường Phạm Ngũ Lão, phường 1, TP.Trà Vinh",
+      "Lat": "9.943205",
+      "Lon": "106.339196",
+      "Description": "Quán có phong cách hiện đại, gồm nhiều tầng, có sân thượng thoáng mát. Các loại nước uống được trình bày đẹp mắt, hấp dẫn. Có bán các loại bánh ngọt châu Âu",
+      "Catalog": "Ẩm thực",
+      "ImgUrl": "https://tfsassets.azureedge.net/sampletry.jpg"
+    },
+    {
+      "ID": "17",
+      "Name": "Chả Hoa Năm Thụy",
+      "Addr": "Đường Phạm Thái Bường, Phường 3, TP.Trà Vinh",
+      "Lat": "9.935779",
+      "Lon": "106.341551",
+      "Description": "Thương hiệu chả hoa lâu đời và nổi tiếng nhất Trà Vinh, thực phẩm chế biến đạt chất lượng, đã được đưa vào bày bán ở hệ thống siêu thị Coop Mart. Quán chuyên bán chả lụa, giò thủ, pate các loại; trong đó chả hoa là đặc sản của quán",
+      "Catalog": "Ẩm thực",
+      "ImgUrl": "https://tfsassets.azureedge.net/sampletry.jpg"
+    },
+    {
+      "ID": "18",
+      "Name": "Siêu thị Coopmart Trà Vinh",
+      "Addr": "Nguyễn Đáng, phường 6, TP. Trà Vinh",
+      "Lat": "9.923936",
+      "Lon": "106.340511",
+      "Description": "Hệ thống siêu thị bán lẻ lớn nhất nước, các mặt hàng thực phẩm, may mặc, gia dụng....phong phú, giá rẻ",
+      "Catalog": "Cơ quan/Doanh nghiệp",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/CoopMartTV.png"
+    },
+    {
+      "ID": "19",
+      "Name": "Chợ Trà Vinh",
+      "Addr": "Phường 3, TP. Trà Vinh",
+      "Lat": "9.935576",
+      "Lon": "106.341831",
+      "Description": "Chợ Lớn của tỉnh, buôn bán đầy đủ các loại hàng hóa, thức ăn, đồ chơi trẻ em, v.v.... Ban đêm là nơi tập trung khách đến ăn uống tại khu ẩm thực gồm nhiều món ngon như hủ tíu xương, miến gà, các loại chè, sinh tố....",
+      "Catalog": "Cơ quan/Doanh nghiệp",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/ChoTV.png"
+    },
+    {
+      "ID": "20",
+      "Name": "Ao Bà Om",
+      "Addr": "khóm 3, Lương Hòa, TP. Trà Vinh",
+      "Lat": "9.917773",
+      "Lon": "106.304072",
+      "Description": "Còn được người dân địa phương gọi là Ao Vuông. Khu du lịch nổi tiếng với các cây cổ thụ hàng trăm năm tuổi chạy dài, bao quanh mặt hồ hình vuông rộng 4000 mét vuông tạo nên khung cảnh thơ mộng, mát mẻ",
+      "Catalog": "Khu du lịch",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/AoBaOm.png"
+    }
+  ]
+}
