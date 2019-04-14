@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "longitude": "106.339881",
+    "latitude": "9.933469",
+    "description": "Cơ quan Bảo hiểm xã hội TP.Trà Vinh",
+    "name": "Bảo hiểm xã hội TPTV"
+  },
+  {
+    "id": "2",
+    "longitude": "106.332786",
+    "latitude": "9.936128",
+    "description": "Quán ẩm thực các loại, nhưng chủ yếu nổi tiếng và thu hút nhờ các loại hải sản tươi sống, có thể lựa chọn tại hồ",
+    "name": "Quán ăn Hùng Biển"
+  },
+  {
+    "id": "3",
+    "longitude": "106.332179",
+    "latitude": "9.940872",
+    "description": "Quán rộng rãi, thoáng mát, có cây cảnh, cá Koi. Phù hợp cho gia đình có con nhỏ xem cá giải trí cuối tuần",
+    "name": "Cafe Phố Mới"
+  },
+  {
+    "id": "4",
+    "longitude": "106.336766",
+    "latitude": "9.938753",
+    "description": "Thương hiệu bún đậu mắm tôm 3 Hiền đã có nhiều chi nhánh ở các tỉnh thành",
+    "name": "Bún đậu mắm tôm 3 Hiền"
+  },
+  {
+    "id": "5",
+    "longitude": "106.336258",
+    "latitude": "9.943093",
+    "description": "Quán có phong cách hiện đại bậc nhất của tỉnh, âm thanh tốt, trang trí đẹp, giá cả hợp lý. Đặc biệt mỗi phòng có một phong cách riêng, được trang trí hoàn toàn khác nhau",
+    "name": "Karaoke Moon"
+  },
+  {
+    "id": "6",
+    "longitude": "106.338686",
+    "latitude": "9.940123",
+    "description": "Chợ đêm hoạt động từ 5h chiều đến 11h đêm. Mặt hàng phong phú, giá rẻ. Có khu ẩm thực bán nhiều loại thức ăn vặt ngon",
+    "name": "Chợ đêm TV"
+  },
+  {
+    "id": "7",
+    "longitude": "106.335480",
+    "latitude": "9.933598",
+    "description": "Một trong những quán cơm nổi tiếng và lâu đời ở TPTV. Chất lượng đồ ăn tuyệt vời, có cơm dĩa, cơm phần, thường được người dân địa phương chọn để đãi khách tỉnh bạn ghé thăm",
+    "name": "Tiệm Cơm Tín Thành"
+  },
+  {
+    "id": "8",
+    "longitude": "9.924145",
+    "latitude": "106.339744",
+    "description": "Siêu thị điện máy lớn, thương hiệu Nguyễn Kim nổi tiếng trên toàn quốc với đầy đủ các thiết bị điện máy như máy lạnh, tủ lạnh, máy giặt....",
+    "name": "Nguyễn Kim"
+  },
+  {
+    "id": "9",
+    "longitude": "106.333717",
+    "latitude": "9.943999",
+    "description": "Phong cách hiện đại, phòng trang trí đẹp với nhiều chủ đề khác nhau",
+    "name": "Karaoke Ngọc Mai"
+  },
+  {
+    "id": "10",
+    "longitude": "106.334066",
+    "latitude": "9.926303",
+    "description": "Nhà sách lớn rất phong phú về thể loại sách, các vật phẩm, thiết bị văn phòng. Ngoài ra có bán nhiều đồ chơi trẻ em, quà lưu niệm",
+    "name": "Nhà sách Khai Trí"
+  },
+  {
+    "id": "11",
+    "longitude": "106.346043",
+    "latitude": "9.922937",
+    "description": "Slogan: mang đến cơ hội học tập cho cộng đồng",
+    "name": "Trường Đại học Trà Vinh"
+  },
+  {
+    "id": "12",
+    "longitude": "106.341346",
+    "latitude": "9.917473",
+    "description": "Sân bóng đá mini và nhà thi đấu cầu lông, thường được chọn để tổ chức các giải đấu phong trào của tỉnh",
+    "name": "Sân bóng đá mini Trung Ngọc"
+  },
+  {
+    "id": "13",
+    "longitude": "106.337527",
+    "latitude": "9.938467",
+    "description": "Nhà thi đấu thể thao của tỉnh, phục vụ các môn thể thao trong nhà: cầu lông, bóng bàn, bóng chuyền, kéo co....",
+    "name": "Nhà thi đấu thể thao"
+  },
+  {
+    "id": "14",
+    "longitude": "106.341447",
+    "latitude": "9.934495",
+    "description": "Tên đầy đủ là chùa Ông Phước Minh Cung, người dân địa phương thường gọi tắt là Chùa Ông",
+    "name": "Chùa ông"
+  },
+  {
+    "id": "15",
+    "longitude": "106.341945",
+    "latitude": "9.937160",
+    "description": "Khách sạn thuộc công ty Lương Thực Trà Vinh, là một trong hai khách sạn lâu đời nhất tại Trà Vinh. Tọa lạc ở vị trí trung tâm của tỉnh, cách chợ lớn của tỉnh khoảng 100m",
+    "name": "Khách sạn Thanh Trà"
+  },
+  {
+    "id": "16",
+    "longitude": "106.339196",
+    "latitude": "9.943205",
+    "description": "Quán có phong cách hiện đại, gồm nhiều tầng, có sân thượng thoáng mát, có bán các loại bánh ngọt châu Âu",
+    "name": "Cát Tường The Coffee House"
+  },
+  {
+    "id": "17",
+    "longitude": "106.341551",
+    "latitude": "9.935779",
+    "description": "Thương hiệu chả hoa lâu đời và nổi tiếng nhất Trà Vinh, thực phẩm chế biến đạt chất lượng, đã được đưa vào bày bán ở hệ thống siêu thị Coop Mart",
+    "name": "Chả Hoa Năm Thụy"
+  },
+  {
+    "id": "18",
+    "longitude": "106.340511",
+    "latitude": "9.923936",
+    "description": "Hệ thống siêu thị bán lẻ lớn nhất nước, các mặt hàng phong phú, giá rẻ",
+    "name": "Siêu thị Coopmart Trà Vinh"
+  },
+  {
+    "id": "19",
+    "longitude": "106.341831",
+    "latitude": "9.935576",
+    "description": "Chợ Lớn của tỉnh, buôn bán đầy đủ các loại hàng hóa, thức ăn, đồ chơi trẻ em, v.v...",
+    "name": "Chợ Trà Vinh"
+  },
+  {
+    "id": "20",
+    "longitude": "106.304072",
+    "latitude": "9.917773",
+    "description": "Còn được người dân địa phương gọi là Ao Vuông. Khu du lịch nổi tiếng với các cây cổ thụ hàng trăm năm tuổi bao quanh mặt hồ hình vuông rộng 4000 mét vuông tạo nên khung cảnh thơ mộng, mát mẻ",
+    "name": "Ao Bà Om"
+  },
+  {
+    "id": "21",
+    "longitude": "106.341656",
+    "latitude": "9.933130",
+    "description": "Tiệm chuyên về bánh kem, có thể thiết kế theo yêu cầu của khách. Ngoài bánh kem truyền thống còn có loại đặc biệt như Tiramisu nhân phô mai, các loại bánh ngọt châu Âu",
+    "name": "Bánh kem Minh Tuyết"
+  },
+  {
+    "id": "22",
+    "longitude": "106.344650",
+    "latitude": "9.924914",
+    "description": "Mì cay Koreno thách thức thực khách với 7 cấp độ cay, nóng",
+    "name": "Mì cay Koreno"
+  },
+  {
+    "id": "23",
+    "longitude": "106.332287",
+    "latitude": "9.941744",
+    "description": "Ẩm thực Tửu Lầu mang phong cách kiếm hiệp Kim Dung, cảnh vật đẹp, thoáng mát",
+    "name": "Ẩm thực Tửu Lầu"
+  },
+  {
+    "id": "24",
+    "longitude": "106.310004",
+    "latitude": "9.918945",
+    "description": "TT sinh hoạt cộng đồng, thường được tổ chức các sự kiện, lễ hội lớn của tỉnh",
+    "name": "TT văn hóa tỉnh Trà Vinh"
+  },
+  {
+    "id": "25",
+    "longitude": "106.331355",
+    "latitude": "9.939355",
+    "description": "Café Điểm Hẹn lý tưởng với võng nằm nghỉ ngơi buổi trưa, và chiều tối có hát với nhau",
+    "name": "Café Điểm Hẹn"
+  }
+]
