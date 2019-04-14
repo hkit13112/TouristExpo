@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "longitude": "106.339881",
+    "latitude": "9.933469",
+    "description": "Bảo hiểm xã hội TPTV",
+    "name": "POI#1"
+  },
+  {
+    "id": "2",
+    "longitude": "106.332786",
+    "latitude": "9.936128",
+    "description": "Quán ăn Hùng Biển",
+    "name": "POI#2"
+  },
+  {
+    "id": "3",
+    "longitude": "106.332179",
+    "latitude": "9.940872",
+    "description": "CF Phố Mới",
+    "name": "POI#3"
+  },
+  {
+    "id": "4",
+    "longitude": "106.336766",
+    "latitude": "9.938753",
+    "description": "Bún đậu mắm tôm 3 Hiền",
+    "name": "POI#4"
+  },
+  {
+    "id": "5",
+    "longitude": "106.336258",
+    "latitude": "9.943093",
+    "description": "Karaoke Moon",
+    "name": "POI#5"
+  },
+  {
+    "id": "6",
+    "longitude": "106.338686",
+    "latitude": "9.940123",
+    "description": "Chợ đêm TV",
+    "name": "POI#6"
+  },
+  {
+    "id": "7",
+    "longitude": "106.335480",
+    "latitude": "9.933598",
+    "description": "Tiệm Cơm Tín Thành",
+    "name": "POI#7"
+  },
+  {
+    "id": "8",
+    "longitude": "9.924145",
+    "latitude": "106.339744",
+    "description": "Nguyễn Kim",
+    "name": "POI#8"
+  },
+  {
+    "id": "9",
+    "longitude": "106.338686",
+    "latitude": "9.940123",
+    "description": "Chợ đêm Trà Vinh",
+    "name": "POI#9"
+  },
+  {
+    "id": "10",
+    "longitude": "106.334066",
+    "latitude": "9.926303",
+    "description": "Nhà sách Khai Trí",
+    "name": "POI#10"
+  },
+  {
+    "id": "11",
+    "longitude": "106.346043",
+    "latitude": "9.922937",
+    "description": "Trường Đại học Trà Vinh",
+    "name": "POI#11"
+  },
+  {
+    "id": "12",
+    "longitude": "106.341346",
+    "latitude": "9.917473",
+    "description": "Sân bóng đá mini Trung Ngọc",
+    "name": "POI#12"
+  },
+  {
+    "id": "13",
+    "longitude": "106.337527",
+    "latitude": "9.938467",
+    "description": "Nhà thi đấu thể thao",
+    "name": "POI#13"
+  },
+  {
+    "id": "14",
+    "longitude": "106.341447",
+    "latitude": "9.934495",
+    "description": "Chùa ông",
+    "name": "POI#14"
+  },
+  {
+    "id": "15",
+    "longitude": "106.341945",
+    "latitude": "9.937160",
+    "description": "Khách sạn Thanh Trà",
+    "name": "POI#15"
+  },
+  {
+    "id": "16",
+    "longitude": "106.339196",
+    "latitude": "9.943205",
+    "description": "Cát Tường The Coffee House",
+    "name": "POI#16"
+  },
+  {
+    "id": "17",
+    "longitude": "106.341551",
+    "latitude": "9.935779",
+    "description": "Chả Hoa Năm Thụy",
+    "name": "POI#17"
+  },
+  {
+    "id": "18",
+    "longitude": "106.340511",
+    "latitude": "9.923936",
+    "description": "Siêu thị Coopmart Trà Vinh",
+    "name": "POI#18"
+  },
+  {
+    "id": "19",
+    "longitude": "106.341831",
+    "latitude": "9.935576",
+    "description": "Chợ Trà Vinh",
+    "name": "POI#19"
+  },
+  {
+    "id": "20",
+    "longitude": "106.304072",
+    "latitude": "9.917773",
+    "description": "Ao Bà Om",
+    "name": "POI#20"
+  },
+  {
+    "id": "21",
+    "longitude": "106.341656",
+    "latitude": "9.933130",
+    "description": "Bánh kem Minh Tuyết",
+    "name": "POI#21"
+  },
+  {
+    "id": "22",
+    "longitude": "106.344650",
+    "latitude": "9.924914",
+    "description": "Mì cay Koreno",
+    "name": "POI#22"
+  },
+  {
+    "id": "23",
+    "longitude": "106.332287",
+    "latitude": "9.941744",
+    "description": "Ẩm thực Tửu Lầu",
+    "name": "POI#23"
+  },
+  {
+    "id": "24",
+    "longitude": "106.310004",
+    "latitude": "9.918945",
+    "description": "TT văn hóa tỉnh Trà Vinh",
+    "name": "POI#24"
+  },
+  {
+    "id": "25",
+    "longitude": "106.331355",
+    "latitude": "9.939355",
+    "description": "Café Điểm Hẹn",
+    "name": "POI#25"
+  }
+]
