@@ -1,0 +1,47 @@
+{
+  "Festivals": [
+    {
+      "ID": "1",
+      "Name": "Lễ Hội Nguyên Tiêu",
+      "Description": "Nguyên Tiêu thắng hội, hay còn gọi là lễ hội Cúng Ông Bảo, tại Đại An (Trà Cú) là một trong những lễ hội dân gian tiêu biểu của cộng đồng các dân tộc Trà Vinh, được ngành Văn hóa, Thể thao và Du lịch quy hoạch là địa chỉ văn hóa tâm linh trong chuỗi các địa điểm du lịch trên địa bàn ven sông Hậu thuộc huyện Trà Cú. Ông Bảo hay Bảo sanh đại đế tên thật là Ngô Bản, thường được gọi là Ngô Chân nhân, người đời Tống bên Trung Hoa. Ông là một vị đại danh y tài đức vẹn toàn, trọn đời hết lòng vì sức khỏe người dân, không mưu cầu danh lợi, tiền tài hay quyền lực. Vì vậy, sau khi từ trần, Ngô Chân nhân được người dân Trung Hoa tôn bái làm Bảo sanh đại đế và được các triều đại sau này phong là Đại đạo Chân nhân.",
+      "InPlaces": ["11","14","20","31"],
+      "Time": "15, 16 tháng Giêng Âm lịch",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/NguyenTieu.png"
+  },
+  {
+      "ID": "2",
+      "Name": "Vu Lan thắng hội",      
+      "Description": "Vu lan thắng hội, hay còn gọi là lễ hội Cúng Ông Bổn Cầu Kè, diễn ra vào những ngày 25 đến 28 tháng Bảy âm lịch, tại thị trấn Cầu Kè mà địa điểm chính là Vạn Niên Phong Cung hay còn gọi là Chùa Chợ (vì gần chợ Cầu Kè) tọa lạc tại khóm 1. Đây là một trong những lễ hội dân gian truyền thống gắn với tín ngưỡng thờ Ông Bổn của cộng đồng người Hoa Trà Vinh cũng như các tỉnh Nam bộ. Ông Bổn, hay còn gọi là Bổn Đầu công tên thật là Trịnh Tu Hòa, vốn là quan thái giám được hoàng đế nhà Minh cử đi sứ nhằm thương thuyết với triều đình các nước Đông Nam Á tạo điều kiện dễ dàng cho người Hoa di cư làm ăn sinh sống. Sau khi ông mất, vua nhà Minh ban sắc phong thần và Hoa kiều các nước Đông Nam Á xem ông là vị phúc thần cai quản về an cư lạc nghiệp",
+      "InPlaces": ["14","20","29","31"],
+      "Time": "25 đến 28 tháng Bảy Âm lịch",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/VuLan.png"
+
+  },
+  {
+      "ID": "3",
+      "Name": "Lễ hội Nghinh Ông",      
+      "Description": "Lễ hội Cúng biển Mỹ Long, còn có tên gọi khác là lễ hội Nghinh ông hay lễ Tế Cửa Nam Hải, là một lễ hội dân gian truyền thống tiêu biểu của cộng đồng cư dân người Kinh sinh sống bằng nghề hạ bạc trên vùng đất ven biển Trà Vinh. Lễ hội Cúng biển diễn ra vào hai ngày 11 và 12 tháng Năm âm lịch hàng năm tại ngôi miếu thờ Bà Chúa Xứ, mở rộng ra khắp địa bàn thị trấn Mỹ Long, huyện Cầu Ngang, cách thành phố Trà Vinh 30 km, về hướng đông. Cúng biển từ lâu đã trở thành ngày hội lớn không chỉ của ngư dân Mỹ Long, người dân trong tỉnh Trà Vinh mà còn thu hút đông đảo khách thập phương từ các tỉnh lân cận như Tiền Giang, Bến Tre, Vĩnh Long, Sóc Trăng… về tham dự.",
+      "InPlaces": ["14","20","31"],
+      "Time": "11, 12 tháng Năm Âm lịch",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/NginhOng.png"
+
+  },    
+  {
+      "ID": "4",
+      "Name": "Lễ hội Đua ghe Ngo",      
+      "Description": "Ngày 14 tháng Mười âm lịch, trên dòng sông Long Bình diễn ra lễ hội đua ghe Ngo sôi nổi giữa tiếng nhạc Ngũ âm vang lừng, tiếng hò reo cổ vũ vang dậy của hàng chục ngàn người dự khán. Các đội đua từ các huyện, thành phố trong tỉnh và các tỉnh lân cận mang đến lễ hội không khí tưng bừng, cuồng nhiệt. Đua ghe Ngo vừa là trò chơi dân gian, vừa tỏ sức mạnh và sự đoàn kết, vừa là nghi thức truyền thống tiễn đưa thần Nước sau mùa gieo trồng về với biển cả, cũng là nghi thức tôn giáo của người Khmer tưởng nhớ rắn thần Nagar xưa từng biến thành đoạn gỗ đưa đức Phật qua sông.",
+      "InPlaces": ["15"],
+      "Time": "14 tháng Mười Âm lịch",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/DuaGheNgo.png"
+
+  },
+  {
+      "ID": "5",
+      "Name": "Lễ hội Ok Om Bok",      
+      "Description": "Cùng với Chol Chnăm Thmây, Sene Đolta, Ok Om Bok là một trong ba lễ hội quan trọng của đồng bào Khmer Nam bộ trong chu kỳ một năm. Lễ hội Ok Om Bok còn có tên khác là lễ hội Cúng Trăng, được tiến hành vào ngày 14 và 15 tháng Kađar theo Phật lịch, tức là Mười bốn và Rằm tháng Mười âm lịch. Theo quan niệm của người Khmer, Mặt Trăng là vị Thần có quyền năng chi phối mùa màng trong canh tác nông nghiệp. Sau khi thu hoạch những sản phẩm đầu tiên của mùa vụ, người ta tiến hành nghi thức cúng tế để tạ ơn Thần Mặt Trăng đã cho một mùa bội thu, giúp phum sóc no đủ. Theo nghĩa đó, Lễ hội Ok Om Bok của người Khmer có sự tương đồng với lễ hội Thượng điền của người Việt. Về mặt ngữ nghĩa, Ok Om Bok có nghĩa là Đút cốm dẹp bằng cách bốc bằng tay nên lễ hội này còn có tên gọi khác là lễ hội Đút cốm dẹp.",
+      "InPlaces": ["20","31"],
+      "Time": "14, 15 tháng Mười Âm lịch",
+      "ImgUrl": "https://hkit13112.github.io/TouristExpo/docs/Images/OkOmBok.png"  
+  }    
+  ]
+}
